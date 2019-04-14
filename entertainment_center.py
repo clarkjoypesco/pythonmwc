@@ -27,3 +27,12 @@ inkheart = media.Movie('Inkheart',
 print inkheart.storyline
 
 inkheart.show_trailer()
+
+
+# New Vocabulary Words
+#  - Class
+#  - Instance
+#  - Constructor
+#  - Self
+#  - Instance Variables
+#  - Instance Method
