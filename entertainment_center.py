@@ -1,5 +1,14 @@
 import media
 
+# New Vocabulary Words
+#  - Class
+#  - Instance
+#  - Constructor
+#  - Self
+#  - Instance Variables
+#  - Instance Method
+
+
 toy_story = media.Movie('Toy Story',
                         'A Story of a boy with his toys that came to life',
                         'https://upload.wikimedia.org/wikipedia/en/thumb/1/13/Toy_Story.jpg/220px-Toy_Story.jpg',
@@ -29,10 +38,3 @@ print inkheart.storyline
 inkheart.show_trailer()
 
 
-# New Vocabulary Words
-#  - Class
-#  - Instance
-#  - Constructor
-#  - Self
-#  - Instance Variables
-#  - Instance Method
