@@ -33,5 +33,9 @@ class TvShow(Video):
 
 
     def get_local_listing(self):
-        
+        print 'Title - ' + self.title
+        print 'Duration - ' + self.duration
+        print 'Season - ' + str(self.season)
+        print 'Episode - ' + str(self.episode)
+        print ' TV Station - ' + self.tvstation
     
